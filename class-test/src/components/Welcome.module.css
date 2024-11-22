@@ -1,0 +1,41 @@
+.welcome_app{
+  justify-content:center;
+  text-align:center;
+  font-size: 3rem;
+  font-weight: bold;
+  color: Blue;
+}
+.input_field{
+  text-align: center;
+}
+.input_field input{
+  border: 2px solid red;
+  border-radius: 2px;
+}
+.input_field button:hover{
+  background-color: green;
+  color: red;
+}
+.list{
+  justify-content:center;
+  text-align: center;
+  margin-top: 1.5rem;
+  text-decoration: underline;
+}
+.namelist{
+  text-align:center;
+  width: 150px;
+  margin-left: 200px;
+}
+
+.namelist li{
+  margin: 2rem 1rem;
+}
+.botton{
+  text-align:center;
+  color: blue;
+}
+h3{
+  text-align: center;
+  color: red;
+}
