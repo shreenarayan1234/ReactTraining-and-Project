@@ -6,10 +6,11 @@ import Footer from './components/Footer';
 const App = () => {
   return (
     <>
+    <p className="text-3xl">Jello</p>
     <Header/>
     <Container/>
     <Footer/>
-    </>
+  </>
   )
 }
 
